@@ -57,7 +57,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&theme=tokyonight)](https://github.com/enkr1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&count_private=true&theme=tokyonight)](https://github.com/enkr1/github-readme-stats)
 
 
 
