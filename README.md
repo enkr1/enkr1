@@ -1,11 +1,11 @@
-### Hello, I'm Jing Hui - aka [codeSTACKr][website] 👋
+### Hello, I'm Jing Hui - [MY PORTFOLIO][website] 👋
 
-## I'm a Student, Developer, and Beatboxer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+## I'm a Student, Web Developer!
+- 🔭 I’m currently working on my final year project!
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ I love to draw and beatbox!🤣
 
 ### Connect with me:
 
