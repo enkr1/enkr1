@@ -3,8 +3,8 @@
 ## I'm a student, front-end web developer!
 - 🔭 I’m currently working on my final year project!
 - 🌱 Targeting a professional career as a full stack developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ I love to draw and beatbox!🤣
+- 🥅 2020 Goals: Learn more about full stack development and be a better coder!🤣
+- ⚡ I love to draw and beatbox!
 
 ### Connect with me:
 
@@ -43,6 +43,8 @@
 ---
 
 <img align="left" alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&theme=tokyonight)](https://github.com/enkr1/github-readme-stats)
 
