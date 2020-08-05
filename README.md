@@ -1,4 +1,4 @@
-### Hello, I'm Jing Hui - [MY PORTFOLIO][website] 👋
+### Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
 
 ## I'm a student, front-end web developer!
 - 🔭 I’m currently working on my final year project!
