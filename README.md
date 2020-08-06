@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my final year project!
 - 🌱 Targeting a professional career as a full stack developer
 - 🥅 2020 Goals: Learn more about full stack development and be a better coder!🤣
-- ⚡ I love to draw and beatbox!
+- ❤ I love to draw and beatbox!
 
 ### Connect with me:
 
