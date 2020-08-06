@@ -33,6 +33,10 @@
 <img align="left" alt="MySQL" width="60px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
 <img align="left" alt="Microsoft SQL" width="50px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 
+<!-- design tools -->
+<img align="left" alt="Adobe Illustrator" width="50px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
+<img align="left" alt="MAdobe Photoshop" width="50px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+
 <!--
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
