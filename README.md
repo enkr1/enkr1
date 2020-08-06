@@ -35,7 +35,7 @@
 
 <!-- design tools -->
 <img align="left" alt="Adobe Illustrator" width="50px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
-<img align="left" alt="MAdobe Photoshop" width="50px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+<img align="left" alt="MAdobe Photoshop" width="50px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
 
 <!--
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
