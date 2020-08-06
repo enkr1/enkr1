@@ -28,8 +28,8 @@
 
 <!-- backend -->
 <img align="left" alt="NetBeans" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" alt="Java" width="55px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="C#" width="55px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Java" width="55px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="MySQL" width="60px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
 <img align="left" alt="Microsoft SQL" width="50px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 
