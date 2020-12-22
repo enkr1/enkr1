@@ -10,15 +10,15 @@
 
 <img align="left" alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
