@@ -1,6 +1,8 @@
 # Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
 
+<p align="center">
 I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. You will see me designing and beatboxing when I'm not coding. 
+</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 <div>
