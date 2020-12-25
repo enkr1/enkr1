@@ -16,10 +16,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
 </div>
 
-## Knowledge and Languages:
-
 <h2 align="center">Knowledge && languages</h2>
+
 <!-- frontend -->
+
 <p align="center">
 <img style="margin: auto;" align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: auto;" align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" />
@@ -51,7 +51,7 @@
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 -->
-<br>
+
 <br>
 <br>
 <br>
