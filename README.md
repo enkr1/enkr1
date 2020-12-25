@@ -29,8 +29,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
   <img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
   <img align="left" alt="MAdobe Photoshop" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
   
-</div>
-
 <!--
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -41,8 +39,13 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 -->
 
-<h2 align="center">Github stats :bar_chart:</h2>
+</div>
+
+
 <div>
+  
+  <h2 align="center">Github stats :bar_chart:</h2>
+  
   <p align="center">
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
   </p>
