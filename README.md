@@ -15,14 +15,11 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" />
   </p>
-    
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 <br>
