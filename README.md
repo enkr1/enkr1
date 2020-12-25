@@ -1,4 +1,5 @@
 # Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
+[website]: https://enkr.business
 
 <p align="center">
 I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. You will see me designing and beatboxing when I'm not coding. 
@@ -38,27 +39,3 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[website]: https://enkr.business
-<!--
-### Hi there 👋
-
-**enkr1/enkr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
-</p>
-
--->
