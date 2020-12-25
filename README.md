@@ -20,7 +20,7 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 </div>
 
 
-<div style="margin: 1rem 0;">
+<div align="center" style="margin: 1rem 0;">
   
   <h2 align="center">Knowledge and languages</h2>
 
