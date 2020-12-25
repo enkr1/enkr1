@@ -74,6 +74,10 @@
 [<img align="left" alt="enkr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
 [website]: https://enkr.business
 [twitter]: https://twitter.com/enkr_jinghui
 [youtube]: https://youtube.com/channel/UCJJmK5bN3b4izpMb2vtRXpw?view_as=subscriberchannel/UCJJmK5bN3b4izpMb2vtRXpw?view_as=subscriber
