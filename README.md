@@ -29,6 +29,7 @@
 ### Knowledge and Languages:
 
 <!-- frontend -->
+<p align="center">
 <img style="margin: auto;" align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: auto;" align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" />
 <img style="margin: auto;" align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -48,6 +49,7 @@
 <!-- design tools -->
 <img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
 <img align="left" alt="MAdobe Photoshop" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
+</p>
 
 <!--
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -66,13 +68,13 @@
 ---
 
 ### Connect with me:
-<p>
+
 [<img align="left" alt="enkr.business" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="enkr | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="enkr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="enkr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="enkr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</p>
+
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
