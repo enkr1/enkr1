@@ -56,9 +56,11 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 <p align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/enkr1?label=Follow&style=social)
+  ![Visitor counts](https://visitor-badge.glitch.me/badge?page_id=enkr1.enkr1)
   <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jinghuipang-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
+
 
 </p>
 
