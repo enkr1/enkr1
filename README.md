@@ -1,6 +1,6 @@
 ### Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
 
-## I'm a student, web designer, full-stack web developer!
+## I'm a student, web designer, full-stack senior web developer!
 - I’m currently doing my internship.
 - Targeting a professional career as a full stack developer
 - 2020 Goals: Learn more about full stack development and be a better coder! 🤣
