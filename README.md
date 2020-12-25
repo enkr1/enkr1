@@ -1,4 +1,4 @@
-### Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
+# Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
 
 ## I'm a student, web designer, full-stack senior web developer!
 - I’m currently doing my internship.
@@ -6,27 +6,14 @@
 - 2020 Goals: Learn more about full stack development and be a better coder! 🤣
 - I love design and beatbox!
 
----
-
+<p algin="center">
 <img align="left" alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
-
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/enkr1/github-readme-stats)
 
 ---
 
-### Knowledge and Languages:
+## Knowledge and Languages:
 
 <!-- frontend -->
 <p align="center">
@@ -78,7 +65,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 :: Visitor's Count" /></p>
 
 [website]: https://enkr.business
 [twitter]: https://twitter.com/enkr_jinghui
