@@ -64,11 +64,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
-</p>
 
 
 [website]: https://enkr.business
@@ -87,4 +82,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
+</p>
+
 -->
