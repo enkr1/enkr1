@@ -54,14 +54,11 @@
 <br>
 <br>
 
-### Connect with me:
-
-[<img align="left" alt="enkr.business" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="enkr | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="enkr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="enkr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="enkr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<p align="center">
+  <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jinghuipang-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -69,11 +66,6 @@
   <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
 </p>
 
-[website]: https://enkr.business
-[twitter]: https://twitter.com/enkr_jinghui
-[youtube]: https://youtube.com/channel/UCJJmK5bN3b4izpMb2vtRXpw?view_as=subscriberchannel/UCJJmK5bN3b4izpMb2vtRXpw?view_as=subscriber
-[instagram]: https://instagram.com/enkr1
-[linkedin]: https://linkedin.com/in/jinghuipang/
 
 <!--
 ### Hi there 👋
