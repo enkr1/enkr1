@@ -7,16 +7,18 @@
 - I love design and beatbox!
 
 <h2 align="center">Github stats :bar_chart:</h2>
+<div>
+  <p align="center">
+    <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
+  </p>
 
-<p align="center">
-  <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
+</div>
 
 ## Knowledge and Languages:
 
+<h2 align="center">Knowledge && languages</h2>
 <!-- frontend -->
 <p align="center">
 <img style="margin: auto;" align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -54,6 +56,11 @@
 <br>
 <br>
 
+<p align="center">
+  <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jinghuipang-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -61,12 +68,6 @@
   <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
 </p>
 
-<h4 align="center"></h4>
-<p align="center">
-  <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jinghuipang-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
 
 <!--
 ### Hi there 👋
