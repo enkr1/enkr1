@@ -18,8 +18,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <br>
 <br>
@@ -37,6 +35,8 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 </div>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://enkr.business
 <!--
