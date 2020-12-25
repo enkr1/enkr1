@@ -17,7 +17,7 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 
 </div>
 
-<h2 align="center">Knowledge && languages</h2>
+<h2 align="center">Knowledge and languages</h2>
 
 <!-- frontend -->
 
@@ -52,10 +52,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 -->
-
-<br>
-<br>
-<br>
 
 <p align="center">
   
