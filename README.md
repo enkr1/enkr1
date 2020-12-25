@@ -4,11 +4,27 @@
 I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. You will see me designing and beatboxing when I'm not coding. 
 </p>
 
-<h2 align="center">Knowledge and languages</h2>
+<div>
+  
+  <h2 align="center">Github stats :bar_chart:</h2>
+  
+  <p align="center">
+    <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
+  </p>
 
-<!-- frontend -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+
+</div>
+
+
 <div style="margin: 1rem 0;">
   
+  <h2 align="center">Knowledge and languages</h2>
+
+  <!-- frontend -->
   <img style="margin: auto;" align="center" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img style="margin: auto;" align="center" alt="Visual Studio" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" />
   <img style="margin: auto;" align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,23 +56,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 -->
 
 </div>
-
-
-<div>
-  
-  <h2 align="center">Github stats :bar_chart:</h2>
-  
-  <p align="center">
-    <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-
-</div>
-
 
 <p align="center">
   
