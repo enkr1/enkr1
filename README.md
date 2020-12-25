@@ -37,8 +37,5 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
 
