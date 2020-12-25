@@ -19,10 +19,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 
 </div>
 
-
-<br>
-<br>
-
 <div align="center">
   <p>
   
