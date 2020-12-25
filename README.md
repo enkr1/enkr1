@@ -20,43 +20,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 </div>
 
 
-<div align="center" style="margin: 1rem 0;">
-  
-  <h2 align="center">Knowledge and languages</h2>
-
-  <!-- frontend -->
-  <img style="margin: auto;" align="center" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img style="margin: auto;" align="center" alt="Visual Studio" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" />
-  <img style="margin: auto;" align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img style="margin: auto;" align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img style="margin: auto;" align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img style="margin: auto 1rem;" align="center" alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img style="margin: auto;" align="center" alt="WordPress" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-
-  <!-- backend -->
-  <img alt="NetBeans" align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-  <img alt="C#" align="center" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-  <img alt="Java" align="center" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img alt="yii2" align="center" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png" />
-  <img alt="MySQL" align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
-  <img alt="Microsoft SQL" align="center" width="40px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-
-  <!-- design tools -->
-  <img align="center" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
-  <img align="center" alt="MAdobe Photoshop" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
-  
-<!--
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
--->
-
-</div>
-
 
 <br>
 <br>
