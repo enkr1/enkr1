@@ -18,16 +18,16 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
   <img style="margin: auto;" align="center" alt="WordPress" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
   <!-- backend -->
-  <img align="left" alt="NetBeans" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-  <img align="left" alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-  <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img align="left" alt="yii2" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png" />
-  <img align="left" alt="MySQL" width="50px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
-  <img align="left" alt="Microsoft SQL" width="40px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+  <img alt="NetBeans" align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+  <img alt="C#" align="center" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+  <img alt="Java" align="center" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img alt="yii2" align="center" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png" />
+  <img alt="MySQL" align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
+  <img alt="Microsoft SQL" align="center" width="40px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 
   <!-- design tools -->
-  <img align="left" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
-  <img align="left" alt="MAdobe Photoshop" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
+  <img align="center" alt="Adobe Illustrator" width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
+  <img align="center" alt="MAdobe Photoshop" width="40px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
   
 <!--
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
