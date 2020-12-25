@@ -7,12 +7,11 @@
 - I love design and beatbox!
 
 <p algin="center">
-<img align="left" alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/enkr1/github-readme-stats)
 
----
 
 ## Knowledge and Languages:
 
@@ -53,8 +52,6 @@
 <br>
 <br>
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="enkr.business" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -66,7 +63,9 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 :: Visitor's Count" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
+</p>
 
 [website]: https://enkr.business
 [twitter]: https://twitter.com/enkr_jinghui
