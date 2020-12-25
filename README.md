@@ -17,7 +17,6 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
   </p>
     
   ---
-  
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 
