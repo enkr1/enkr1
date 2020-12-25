@@ -1,3 +1,7 @@
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
 [website]: https://enkr.business
 
@@ -31,7 +35,4 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
   </p>
 </div>
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
