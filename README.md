@@ -4,19 +4,6 @@
 I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. You will see me designing and beatboxing when I'm not coding. 
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-<div>
-  <p align="center">
-    <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-
-</div>
-
 <h2 align="center">Knowledge and languages</h2>
 
 <!-- frontend -->
@@ -53,6 +40,20 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 -->
+
+<h2 align="center">Github stats :bar_chart:</h2>
+<div>
+  <p align="center">
+    <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+
+</div>
+
 
 <p align="center">
   
