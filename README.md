@@ -6,14 +6,14 @@
 - 2020 Goals: Learn more about full stack development and be a better coder! 🤣
 - I love design and beatbox!
 
+<h2 align="center">Github stats :bar_chart:</h2>
+
 <p align="center">
   <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/enkr1/github-readme-stats)
-
 
 ## Knowledge and Languages:
 
