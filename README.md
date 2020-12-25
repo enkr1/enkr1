@@ -54,11 +54,6 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jinghuipang-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -66,6 +61,12 @@
   <img src="https://profile-counter.glitch.me/{enkr1}/count.svg" alt="enkr1 | Visitor's Count" />
 </p>
 
+<h4 align="center"></h4>
+<p align="center">
+  <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jinghuipang-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 <!--
 ### Hi there 👋
