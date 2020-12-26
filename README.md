@@ -24,7 +24,7 @@ I'm a student, web designer, full-stack senior web developer, and currently doin
 
 **🐱 My Github Data** 
 
-> 🏆 765 Contributions in the Year 2020
+> 🏆 770 Contributions in the Year 2020
  > 
 > 📦 148.2 kB Used in Github's Storage 
  > 
