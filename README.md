@@ -2,7 +2,7 @@
 [website]: https://enkr.business
 
 <p align="center">
-I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. You will see me designing and beatboxing when I'm not coding. 
+I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. Fun fact, I'm a beatboxer.
 </p>
 
 <div>
