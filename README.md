@@ -1,9 +1,19 @@
-# Hello, I'm Jing Hui - [MY WEBSITE][website] 👋
-[website]: https://enkr.business
+### Hello 👋
 
 <p align="center">
-I'm a student, web designer, full-stack senior web developer, and currently doing my 22 weeks internship programme. I'm targeting a professional career as a full stack developer. Fun fact, I'm a beatboxer.
+  
+  Pang Jing Hui, a student, web designer, full-stack web developer (senior), and currently doing 22 weeks internship programme. 
+  Targeting a professional career as a full stack developer. 
+  
 </p>
+
+<p align="center">
+  
+  [My portfolio][website]
+  
+</p>
+
+[website]: https://enkr.business
 
 <div>
   
