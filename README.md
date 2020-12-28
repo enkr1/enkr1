@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <p align="center">
-  Pang Jing Hui, a student, web designer, full-stack web developer (senior), and currently doing 22 weeks internship programme. 
+  Pang Jing Hui, a student, web designer and currently doing 22 weeks internship programme. 
   Targeting a professional career as a full stack developer. 
   View his personal website <a href="https://enkr.business" target="_blank">here</a>.
 </p>
