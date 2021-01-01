@@ -102,6 +102,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <div align="center">
   <p> 
+    
+  ![GitHub followers](https://img.shields.io/github/followers/enkr1?label=Follow&style=social)
+  ![Visitor counts](https://visitor-badge.glitch.me/badge?page_id=enkr1.enkr1)
     <a href="https://img.shields.io/github/followers/enkr1?label=Follow&style=social"></a>
     <a href="https://visitor-badge.glitch.me/badge?page_id=enkr1.enkr1"></a>
     <a href="https://enkr.business/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-enkr.business-blue?style=flat&logo=google-chrome"></a>
