@@ -6,16 +6,6 @@
   View his personal website <a href="https://enkr.business" target="_blank">here</a>.
 </p>
 
-```php
-
-if (!me()->isDead()) {
-    me()->code();
-    me()->sleep();
-    me()->beatbox();
-}
-
-```
-
 <div>
   
   <h2 align="center">Github stats 📊</h2>
