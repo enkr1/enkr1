@@ -148,5 +148,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 </div>
 
 #### References
-<p>The statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> and the icons and badges are provided by <a href="https://shields.io/">Shields.io</a></p>
+<p><i>The statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> and the icons and badges are provided by <a href="https://shields.io/">Shields.io</a></i></p>
 
