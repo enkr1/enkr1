@@ -11,8 +11,10 @@
 <p align="center">
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
   <img src="http://img.shields.io/badge/-PHP-8993be?style=flat&logo=php&logoColor=white">
-  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<!--   <img src="https://img.shields.io/badge/-C#-eed718?style=flat&logo=c-sharp&logoColor=ffffff"> -->
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
@@ -54,7 +56,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 71 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -62,8 +64,8 @@
 
 ```text
 🌞 Morning    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-🌆 Daytime    141 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
-🌃 Evening    193 commits    ██████████░░░░░░░░░░░░░░░   40.63% 
+🌆 Daytime    142 commits    ███████░░░░░░░░░░░░░░░░░░   29.89% 
+🌃 Evening    192 commits    ██████████░░░░░░░░░░░░░░░   40.42% 
 🌙 Night      84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68%
 
 ```
@@ -72,9 +74,9 @@
 ```text
 Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 Tuesday      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-Wednesday    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
+Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
 Thursday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-Friday       142 commits    ███████░░░░░░░░░░░░░░░░░░   29.89% 
+Friday       143 commits    ███████░░░░░░░░░░░░░░░░░░   30.11% 
 Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
 Sunday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05%
 
