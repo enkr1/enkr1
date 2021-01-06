@@ -1,12 +1,14 @@
-<samp>Hello World 👋 </samp>
+<samp>Hello World 👋</samp>
 
 <p align="center">
+  <samp>
   Pang Jing Hui, a student, web designer and currently doing 22 weeks internship programme. 
   Targeting a professional career as a full stack developer. 
   View his personal website <a href="https://enkr.business" target="_blank">here</a>.
+  </samp>
 </p>
 
-<h3 align="center">I am experienced in ... </h3>
+<h3 align="center"><samp>I am experienced in ... </samp></h3>
 
 <p align="center">
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
@@ -30,6 +32,13 @@
   <img src="http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
   <img src="http://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0db7ed">
 </p>
+
+<p align="center">
+  <img src="http://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop&logoColor=4FCCFE">
+  <img src="http://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator&logoColor=F2781D">
+  <img src="http://img.shields.io/badge/-XD-black?style=flat&logo=adobe-XD&logoColor=FF61F6">
+</p>
+
 <!--   <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> -->
 <!-- <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat"> -->
@@ -46,7 +55,7 @@
 
 <div>
   
-  <h3 align="center">Github stats 📊</h3>
+  <h3 align="center"><samp>Github stats 📊</samp></h3>
   
   <p align="center">
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
