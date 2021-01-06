@@ -21,12 +21,12 @@
   <img src="http://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 </p>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android%20studio&logoColor=669933">
+  <img src="http://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=f34f29">
+  <img src="http://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=android%20studio&logoColor=669933">
   <img src="http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
   <img src="http://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0db7ed">
 </p>
