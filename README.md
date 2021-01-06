@@ -146,3 +146,8 @@ CSS                      1 repo              █░░░░░░░░░░�
   <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
   </p>
 </div>
+
+<p><b>Credits</b></p>
+<p>The statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></p>
+<p>The icons and badges are provided by <a href="https://shields.io/">Shields.io</a></p>
+
