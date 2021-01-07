@@ -73,6 +73,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" />
   </p>
   
+</div>
+  
 <details>
   <summary>
   <h4 align="center">
@@ -81,8 +83,6 @@
 <!--     </samp> -->
   </h4>
   </summary>
-  
-</div>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
