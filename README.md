@@ -1,5 +1,5 @@
 <samp>Hello World 👋</samp>
-123
+
 <p align="center">
 <!--   <samp> -->
   I am Pang Jing Hui, a year 3 student DIT from Singapore Polytechnic, web designer and currently doing 22 weeks internship programme. 
@@ -84,6 +84,7 @@
 <!--   </h4> -->
   </summary>
   
+  <br>
   <br>
 
 <!--START_SECTION:waka-->
