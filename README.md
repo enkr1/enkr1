@@ -77,12 +77,14 @@
   
 <details>
   <summary>
-  <h4 align="center">
+<!--   <h4 align="center"> -->
 <!--     <samp> -->
-      View more
+      View more from WakaTime ...
 <!--     </samp> -->
-  </h4>
+<!--   </h4> -->
   </summary>
+  
+  <br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
