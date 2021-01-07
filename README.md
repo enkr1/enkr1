@@ -2,9 +2,9 @@
 
 <p align="center">
   <samp>
-  Pang Jing Hui, a student, web designer and currently doing 22 weeks internship programme. 
+  My name is Pang Jing Hui, I am a student, web designer and currently doing 22 weeks internship programme. 
   Targeting a professional career as a full stack developer. 
-  View his personal website <a href="https://enkr.business" target="_blank">here</a>.
+  View my personal website <a href="https://enkr.business" target="_blank">here</a>.
   </samp>
 </p>
 
@@ -55,7 +55,7 @@
 
 <div>
   
-  <h3 align="center"><samp>Github stats 📊</samp></h3>
+  <h3 align="center"><samp>My GitHub stats 📊</samp></h3>
   
   <p align="center">
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
