@@ -75,17 +75,16 @@
   
 </div>
   
-<details>
-  <summary>
-<!--   <h4 align="center"> -->
+<!-- <details>
+  <summary> -->
+   <h4 align="center">
 <!--     <samp> -->
       Click to view other statistics from WakaTime ...
 <!--     </samp> -->
-<!--   </h4> -->
-  </summary>
+  </h4>
+<!--   </summary>
+  <br> -->
   
-  <br>
-  <br>
 
 <!--START_SECTION:waka-->
 
@@ -165,7 +164,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>
+<!-- </details> -->
 
 <br>
 
