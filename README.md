@@ -72,7 +72,8 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" />
   </p>
-<detail>
+  
+<details>
   <summary>
   <h4 align="center">
 <!--     <samp> -->
@@ -160,7 +161,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</detail>
+</details>
 
 <br>
 
