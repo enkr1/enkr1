@@ -79,7 +79,7 @@
   <summary>
 <!--   <h4 align="center"> -->
 <!--     <samp> -->
-      View more from WakaTime ...
+      Click to view other statistics from WakaTime ...
 <!--     </samp> -->
 <!--   </h4> -->
   </summary>
