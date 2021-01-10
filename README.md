@@ -71,7 +71,11 @@
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 |  Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="enkr1 | Top Langs" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
   </p>
   
 </div>
