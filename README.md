@@ -15,8 +15,8 @@
 </h3>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-  <img src="http://img.shields.io/badge/-PHP-8993be?style=flat&logo=php&logoColor=white">
+  <img src="http://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
+  <img src="http://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
   <img src="https://img.shields.io/badge/-C%23-e6000d?style=flat&logo=c-sharp&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Dart-0082C8?style=flat&logo=dart&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
