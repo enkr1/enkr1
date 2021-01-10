@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Agile-5A0FC8?style=flat">
   <img src="https://img.shields.io/badge/-KanBan-5A0FC8?style=flat">
-  <img src="https://img.shields.io/badge/-Agile-5A0FC8?style=flat">  
+<!--   <img src="https://img.shields.io/badge/-Agile-5A0FC8?style=flat">   -->
 </p>
 
 <div>
