@@ -17,17 +17,17 @@
 <p align="center">
   <img src="http://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
   <img src="http://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
-  <img src="https://img.shields.io/badge/-C%23-e6000d?style=flat&logo=c-sharp&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Dart-0082C8?style=flat&logo=dart&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="http://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoColor=e6000d">
+  <img src="https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&logoColor=0082C8">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
+  <img src="https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&logoColor=blue">
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-Sass-black?style=flat&logo=sass&logoColor=cc6699">
+  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=563D7C">
+  <img src="http://img.shields.io/badge/-WordPress-black?style=flat&logo=wordpress&logoColor=blue">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=00758F">
+  <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFA611">
 </p>
 
 <p align="center">
