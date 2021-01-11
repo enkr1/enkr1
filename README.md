@@ -102,7 +102,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 74 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
