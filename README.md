@@ -102,9 +102,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 77 Public Repositories 
+> 📜 76 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
