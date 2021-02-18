@@ -135,14 +135,13 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      1 hr 39 mins        █████████████████████████   99.78% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
