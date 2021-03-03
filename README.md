@@ -2,8 +2,7 @@
 
 <p align="center">
 <!--   <samp> -->
-  I am Pang Jing Hui, a year 3 DIT student from Singapore Polytechnic, web designer and currently doing 22 weeks internship programme. 
-  Targeting a professional career as a full stack developer. 
+  My name is Pang Jing Hui, I am a web designer, developer who's targeting a professional career as a full stack developer. 
   View my personal website <a href="https://enkr.business" target="_blank">here</a>.
 <!--   </samp> -->
 </p>
