@@ -11,12 +11,11 @@
 
 <!--
 **Talking about Personal Stuffs:**
--->
-
 - 💼  I’m currently working at [Pixium Digital](https://github.com/pixiumdigital);
 - 💻  I’m currently developing a Flutter project with a team; 
 - 💬  Ask me about anything, I am happy to help;
-- 📫  How to reach me: [@enkr1](enkr99@gmail.com);
+- 📫  How to reach me: [@enkr1](enkr99@gmail.com); 
+-->
 
 <h3 align="center">
 <!--   <samp> -->
