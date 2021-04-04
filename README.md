@@ -185,5 +185,10 @@ Java                     2 repos             ██░░░░░░░░░�
 </div>
 
 #### References
-<p><i>The statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> and the icons and badges are provided by <a href="https://shields.io/">Shields.io</a></i></p>
+<p><i>
+<ul>
+  <li>Statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
+  <li>Icons and badges are provided by <a href="https://shields.io/">Shields.io</a></li>
+</ul>
+</i></p>
 
