@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--   <samp> -->
-  My name is Pang Jing Hui, a web designer, developer, programmer and currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
+  My name is Pang Jing Hui, a web designer, developer, programmer and graduated from <a href="https://www.sp.edu.sg/" target="_blank">Singapore Polytechnic</a> currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
   View my personal website <a href="https://enkr.business" target="_blank">here</a>. 
   <br />
   I am a beatboxer too! Follow my instagram <a href="https://www.instagram.com/enkr1/" target="_blank">here</a>.
