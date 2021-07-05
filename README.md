@@ -101,15 +101,13 @@
   
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 544 Contributions in the Year 2021
+> 🏆 541 Contributions in the Year 2021
  > 
-> 📦 164.2 kB Used in Github's Storage 
+> 📦 175.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
