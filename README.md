@@ -176,7 +176,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enkr1/enkr1/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 <!-- </details> -->
