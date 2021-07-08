@@ -24,8 +24,9 @@
 </h3>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
-  <img src="http://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
+  <img src="https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=08C7FA">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
   <img src="https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&logoColor=0082C8">
   <img src="https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoColor=e6000d">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
@@ -34,17 +35,17 @@
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-Sass-black?style=flat&logo=sass&logoColor=cc6699">
   <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=563D7C">
-  <img src="http://img.shields.io/badge/-WordPress-black?style=flat&logo=wordpress&logoColor=blue">
+  <img src="https://img.shields.io/badge/-WordPress-black?style=flat&logo=wordpress&logoColor=blue">
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=00758F">
   <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFA611">
 </p>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=f34f29">
-  <img src="http://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=android%20studio&logoColor=669933">
-  <img src="http://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
-  <img src="http://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0db7ed">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=f34f29">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=android%20studio&logoColor=669933">
+  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual%20studio%20code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0db7ed">
 </p>
 
 <p align="center">
