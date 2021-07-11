@@ -3,7 +3,7 @@
 <p align="center">
 <!--   <samp> -->
   My name is Pang Jing Hui, a web designer, developer, programmer who graduated from <a href="https://www.sp.edu.sg/" target="_blank">Singapore Polytechnic</a> and I am currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
-  View my personal website <a href="https://enkr1.github.io/web/" target="_blank">here</a>. 
+  View my personal website <a href="https://enkr1.github.io" target="_blank">here</a>. 
   <br />
   I am a beatboxer too! Follow my instagram <a href="https://www.instagram.com/enkr1/" target="_blank">here</a>.
 <!--   </samp> -->
@@ -188,7 +188,7 @@ Java                     2 repos             █░░░░░░░░░░�
   <p> 
   <img src="https://img.shields.io/github/followers/enkr1?label=Follow&style=social" alt="Followers" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=enkr1.enkr1" alt="Visitors" />
-  <a href="https://enkr1.github.io/web/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Personal%20Website-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://enkr1.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Personal%20Website-blue?style=flat&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pang%20Jing%20Hui-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
   </p>
