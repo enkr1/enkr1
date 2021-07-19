@@ -102,11 +102,11 @@
   
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 637 Contributions in the Year 2021
+> 🏆 639 Contributions in the Year 2021
  > 
 > 📦 176.3 kB Used in Github's Storage 
  > 
