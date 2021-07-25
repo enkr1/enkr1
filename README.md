@@ -102,13 +102,15 @@
   
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 681 Contributions in the Year 2021
  > 
-> 📦 177.2 kB Used in Github's Storage 
+> 📦 177.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -177,7 +179,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enkr1/enkr1/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
 
 <!-- </details> -->
