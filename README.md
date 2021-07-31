@@ -102,6 +102,8 @@
   
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
@@ -145,7 +147,7 @@ Sunday       49 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     15 hrs 53 mins      ██████████████░░░░░░░░░░░   57.68% 
+Dart                     15 hrs 53 mins      ██████████████░░░░░░░░░░░   57.67% 
 PHP                      8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.15% 
 HTML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
 SCSS                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
