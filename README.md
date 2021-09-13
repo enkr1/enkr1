@@ -92,11 +92,11 @@
   
 <!-- <details>
   <summary> -->
-   <h4 align="center">
+<!--    <h4 align="center"> -->
 <!--     <samp> -->
 <!--       Click to view other statistics from WakaTime ... -->
 <!--     </samp> -->
-  </h4>
+<!--   </h4> -->
 <!--   </summary>
   <br> -->
   
