@@ -85,8 +85,8 @@
 <details>
 <summary style="text-align:center;">My top programming languages 📈</summary>
 
-<a href="https://wakatime.com/share/@enkr1/d69071e1-bb03-4531-85f7-8e202b8c2466.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/d69071e1-bb03-4531-85f7-8e202b8c2466.svg" width="100%"></img>
+<a href="https://wakatime.com/share/@enkr1/c083b38a-4108-4549-8b66-b6937f62d389.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/c083b38a-4108-4549-8b66-b6937f62d389.svg" width="100%"></img>
 </a>
 </p>
 </details>
