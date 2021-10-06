@@ -90,7 +90,7 @@
     <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" />
 -->
-    <img src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg" width="100vw"></img>
+    <img src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg" width="100%"></img>
   </p>
   
 </details>
