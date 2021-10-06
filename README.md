@@ -80,10 +80,22 @@
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" />
-  </p>
 
+<details>
+  <summary>
+   <h4 align="center">
+    Click to view other statistics from WakaTime ...
+  </h4>
+  </summary>
+  
+  <p align="center">
+    <!--
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" />
+-->
+  </p>
+  
+</details>
+  
 <!--   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
   </p> -->
@@ -98,14 +110,10 @@
 <!--     </samp> -->
 <!--   </h4> -->
 <!--   </summary>
-  <br> -->
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!-- </details> -->
 
-<img src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg"></img>
+<img src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg" width="100%"></img>
 
 <br>
 
