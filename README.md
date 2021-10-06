@@ -75,18 +75,18 @@
   <p align="center">
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
   </p>
-
+<!-- WAKATIME COLOUR THEME: #5e4b91 -->
   <h4 align="center">My coding activities of the week 💻</h4>
 <p align="center">
-<a href="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" width="100%"></img>
+<a href="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" width="100%"></img>
 </a>
 
 <details>
 <summary style="text-align:center;">My top programming languages 📈</summary>
 
-<a href="https://wakatime.com/share/@enkr1/c083b38a-4108-4549-8b66-b6937f62d389.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/c083b38a-4108-4549-8b66-b6937f62d389.svg" width="100%"></img>
+<a href="https://wakatime.com/share/@enkr1/ca66fedc-502d-4fa5-afae-2634948d1764.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/ca66fedc-502d-4fa5-afae-2634948d1764.svg" width="100%"></img>
 </a>
 </p>
 </details>
