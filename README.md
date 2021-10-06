@@ -70,33 +70,26 @@
 
 <div>
   
-  <h3 align="center">
-<!--     <samp> -->
-      My GitHub stats 📊
-<!--     </samp> -->
-  </h3>
+  <h3 align="center">My GitHub stats 📊</h3>
   
   <p align="center">
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
   </p>
 
-
-<details>
-<summary style="text-align:center;">
-Click to view other statistics from WakaTime ... 
-</summary>
-
+  <h4 align="center">My coding activities of the week 💻</h4>
 <p align="center">
 <a href="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" target="_blank">
-<img scr="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" width="100%"></img>
+<img src="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" width="100%"></img>
 </a>
 
-<a href="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" width="100%"></img>
+<details>
+<summary style="text-align:center;">My top programming languages 📈</summary>
+
+<a href="https://wakatime.com/share/@enkr1/d69071e1-bb03-4531-85f7-8e202b8c2466.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/d69071e1-bb03-4531-85f7-8e202b8c2466.svg" width="100%"></img>
 </a>
 </p>
 </details>
-  
   
 </div>
   
