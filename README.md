@@ -105,7 +105,7 @@
 
 <!-- </details> -->
 
-<figure><embed src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg"></embed></figure>
+<img src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg"></img>
 
 <br>
 
