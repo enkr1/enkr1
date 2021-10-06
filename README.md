@@ -80,34 +80,31 @@
     <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
   </p>
 
-  <a href="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" target="_blank">
-    <img scr="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" width="100%"></img>
-  </a>
 
 <details>
-  <summary style="text-align:center;">
-    Click to view other statistics from WakaTime ... 
-  </summary>
-  
-  <p align="center">
-    <!--
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" />
--->
-    <a href="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" target="_blank">
-      <img src="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" width="100%"></img>
-    </a>
-  </p>
-  
+<summary style="text-align:center;">
+Click to view other statistics from WakaTime ... 
+</summary>
+
+<p align="center">
+<a href="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" target="_blank">
+<img scr="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" width="100%"></img>
+</a>
+
+<a href="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" width="100%"></img>
+</a>
+</p>
 </details>
   
-<!--   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
-  </p> -->
   
 </div>
   
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
+</p> -->
 <!-- <details>
-  <summary> -->
+<summary> -->
 <!--    <h4 align="center"> -->
 <!--     <samp> -->
 <!--       Click to view other statistics from WakaTime ... -->
@@ -117,6 +114,7 @@
 
 <!-- </details> -->
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" /> -->
 
 <br>
 
