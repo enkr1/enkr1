@@ -93,8 +93,8 @@
     <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" />
 -->
-    <a href="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg" target="_blank">
-      <img src="https://wakatime.com/share/@enkr1/ee6a50cb-0966-4d24-82b0-faf5bfe0c9bf.svg" width="100%"></img>
+    <a href="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" target="_blank">
+      <img src="https://wakatime.com/share/@enkr1/db39776c-987f-4064-b11e-fef9f143dc4a.svg" width="100%"></img>
     </a>
   </p>
   
