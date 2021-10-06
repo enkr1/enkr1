@@ -81,7 +81,7 @@
   </p>
 
   <a href="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" target="_blank">
-    <img scr="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" />
+    <img scr="https://wakatime.com/share/@enkr1/f267778b-8371-4f25-b280-eb5836ef4bd0.svg" width="100%"></img>
   </a>
 
 <details>
