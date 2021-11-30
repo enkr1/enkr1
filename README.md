@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&logoColor=0082C8">
   <img src="https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoColor=e6000d">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=0079CC">
   <img src="https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&logoColor=blue">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6">
