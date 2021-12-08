@@ -9,14 +9,17 @@
 <!--   </samp> -->
 </p>
 
-  <!-- <h3 align="center">My GitHub stats 📊</h3> -->
   
+
+<details>
+<summary style="text-align:center;">My GitHub stats 📊</summary>
+<br>
 <img 
 alt="enkr1's Github Stats" 
 src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" 
 style="width:50%;"
 />
-
+</details>
 <!--
 **Talking about Personal Stuffs:**
 - 💼  I’m currently working at [Pixium Digital](https://github.com/pixiumdigital);
@@ -29,7 +32,7 @@ style="width:50%;"
 <!-- # -->
 
 
-<details style="margin-top:1rem;">
+<details>
 <summary style="text-align:center;">My coding activities of the week 💻</summary>
   
 <!--
