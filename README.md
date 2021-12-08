@@ -1,12 +1,12 @@
 <samp>Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></samp>
 
 <p style="float:left;">
-  <samp>
+<!--   <samp> -->
   My name is Pang Jing Hui, a web designer, developer, programmer who graduated from <a href="https://www.sp.edu.sg/" target="_blank">Singapore Polytechnic</a> and I am currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
   This is my <a href="https://enkr1.github.io" target="_blank">personal website</a> developed and designed by myself.
   <br />
   I am a beatboxer too! Follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>.
-  </samp>
+<!--   </samp> -->
 </p>
 
   <!-- <h3 align="center">My GitHub stats 📊</h3> -->
@@ -33,7 +33,7 @@ style="width:60%;"
   <!-- </samp> -->
 </h3>
 
-<p style="text-align:center;width:100%;">
+<p align="center">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
   <img src="https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=08C7FA">
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
