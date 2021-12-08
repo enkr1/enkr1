@@ -79,8 +79,8 @@
 <!-- WAKATIME COLOUR THEME: #5e4b91 -->
   <h4 align="center">My top programming languages 📈</h4>
 <p align="center">
-<a href="https://wakatime.com/share/@enkr1/546e965d-d95e-49a0-9f76-a705ea3dda4e.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/546e965d-d95e-49a0-9f76-a705ea3dda4e.svg" width="100%"></img>
+<a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%"></img>
 </a>
 
 <details>
