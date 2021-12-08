@@ -27,11 +27,7 @@ style="width:50%;"
 
 <div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
 
-<h3 align="center">
-  <!-- <samp> -->
-    I am experienced in ... 
-  <!-- </samp> -->
-</h3>
+<h4 align="center">What I am experienced in 📦</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
