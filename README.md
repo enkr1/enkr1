@@ -26,10 +26,10 @@ style="width:50%;"
 -->
 
 
-#
+<!-- # -->
 
 
-<details>
+<details style="margin-top:1rem;">
 <summary style="text-align:center;">My coding activities of the week 💻</summary>
   
 <!--
@@ -50,7 +50,6 @@ Overall:
 
 #
 
-<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
 
 <h4 align="center">What I am experienced in 📦</h4>
 
