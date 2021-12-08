@@ -1,13 +1,21 @@
 <samp>Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></samp>
 
-<p align="center">
-<!--   <samp> -->
+<p style="float:left;">
+  <samp>
   My name is Pang Jing Hui, a web designer, developer, programmer who graduated from <a href="https://www.sp.edu.sg/" target="_blank">Singapore Polytechnic</a> and I am currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
   This is my <a href="https://enkr1.github.io" target="_blank">personal website</a> developed and designed by myself.
   <br />
   I am a beatboxer too! Follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>.
-<!--   </samp> -->
+  </samp>
 </p>
+
+  <!-- <h3 align="center">My GitHub stats 📊</h3> -->
+  
+<img 
+alt="enkr1's Github Stats" 
+src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" 
+style="width:60%;"
+/>
 
 <!--
 **Talking about Personal Stuffs:**
@@ -17,13 +25,15 @@
 - 📫  How to reach me: [@enkr1](enkr99@gmail.com); 
 -->
 
+<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
+
 <h3 align="center">
-<!--   <samp> -->
+  <!-- <samp> -->
     I am experienced in ... 
-<!--   </samp> -->
+  <!-- </samp> -->
 </h3>
 
-<p align="center">
+<p style="text-align:center;width:100%;">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
   <img src="https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=08C7FA">
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
@@ -50,9 +60,9 @@
 </p>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop&logoColor=4FCCFE">
-  <img src="http://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator&logoColor=F2781D">
-  <img src="http://img.shields.io/badge/-XD-black?style=flat&logo=adobe-XD&logoColor=FF61F6">
+  <img src="https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop&logoColor=4FCCFE">
+  <img src="https://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator&logoColor=F2781D">
+  <img src="https://img.shields.io/badge/-XD-black?style=flat&logo=adobe-XD&logoColor=FF61F6">
 </p>
 
 <!--   <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
@@ -69,19 +79,18 @@
 <!--   <img src="https://img.shields.io/badge/-Agile-5A0FC8?style=flat">   -->
 </p>
 
-<div>
-  
-  <h3 align="center">My GitHub stats 📊</h3>
-  
-  <p align="center">
-    <img alt="enkr1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
-  </p>
+<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
+
 <!-- WAKATIME COLOUR THEME: #5e4b91 -->
   <h4 align="center">My top programming languages 📈</h4>
 <p align="center">
 <a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
 <img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%"></img>
 </a>
+
+
+<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
+
 
 <details>
 <summary style="text-align:center;">My coding activities of the week 💻</summary>
@@ -95,13 +104,12 @@ Overall:
 -> circle: https://wakatime.com/share/@enkr1/ca66fedc-502d-4fa5-afae-2634948d1764.svg
 -->
   
-<a href="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" width="100%"></img>
-</a>
+  <a href="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" target="_blank">
+    <img src="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" width="100%"></img>
+  </a>
 </p>
 </details>
   
-</div>
   
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
