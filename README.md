@@ -33,7 +33,7 @@ style="width:50%;"
 
 
 <details>
-<summary style="text-align:center;">My coding activities of the week 💻</summary>
+<summary style="text-align:center;">My weekly coding activities 💻</summary>
   
 <!--
 
