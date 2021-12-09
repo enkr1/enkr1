@@ -54,6 +54,38 @@ Overall:
 #
 
 
+<!-- WAKATIME COLOUR THEME: #5e4b91 -->
+  <h4 align="center">My top programming languages 📈</h4>
+<p align="center">
+<a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%"></img>
+</a>
+
+
+<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
+  
+  
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
+</p> -->
+<!-- <details>
+<summary> -->
+<!--    <h4 align="center"> -->
+<!--     <samp> -->
+<!--       Click to view other statistics from WakaTime ... -->
+<!--     </samp> -->
+<!--   </h4> -->
+<!--   </summary>
+
+<!-- </details> -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" /> -->
+
+
+
+#
+
+
 <h4 align="center">What I am experienced in 📦</h4>
 
 <p align="center">
@@ -101,40 +133,6 @@ Overall:
   <img src="https://img.shields.io/badge/-KanBan-5A0FC8?style=flat">
 <!--   <img src="https://img.shields.io/badge/-Agile-5A0FC8?style=flat">   -->
 </p>
-
-<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
-
-
-#
-
-
-<!-- WAKATIME COLOUR THEME: #5e4b91 -->
-  <h4 align="center">My top programming languages 📈</h4>
-<p align="center">
-<a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%"></img>
-</a>
-
-
-<div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
-  
-  
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
-</p> -->
-<!-- <details>
-<summary> -->
-<!--    <h4 align="center"> -->
-<!--     <samp> -->
-<!--       Click to view other statistics from WakaTime ... -->
-<!--     </samp> -->
-<!--   </h4> -->
-<!--   </summary>
-
-<!-- </details> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" /> -->
-
 
 #
 
