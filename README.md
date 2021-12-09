@@ -45,7 +45,7 @@ Overall:
 -->
   
   <a href="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" target="_blank">
-    <img src="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" width="100%"></img>
+    <img src="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg" width="100%" />
   </a>
 </p>
 </details>
@@ -58,7 +58,7 @@ Overall:
   <h4 align="center">My top programming languages 📈</h4>
 <p align="center">
 <a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%"></img>
+<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%" />
 </a>
 
 
