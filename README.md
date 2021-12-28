@@ -81,6 +81,10 @@ Overall:
 <summary style="text-align:center;">📦 What I am experienced in</summary>
 <br>
 <p align="center">
+  <img src="/assets/images/yii_logo_light.svg" width="15%">
+</p>
+  
+<p align="center">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
   <img src="https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=08C7FA">
   <img src="https://img.shields.io/badge/-Elixir-black?style=flat&logo=elixir&logoColor=613178">
