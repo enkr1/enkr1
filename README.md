@@ -9,7 +9,17 @@
 <!--   </samp> -->
 </p>
 
-  
+<br>
+
+<!-- WAKATIME COLOUR THEME: #5e4b91 -->
+
+<details open>
+<summary style="text-align:center;">My top programming languages 📈</summary>
+<p align="center">
+<a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
+<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="88%" />
+</a>
+</details>
 
 <details>
 <summary style="text-align:center;">My GitHub stats 📊</summary>
@@ -27,10 +37,6 @@ style="width:50%;"
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: [@enkr1](enkr99@gmail.com); 
 -->
-
-
-<!-- # -->
-
 
 <details>
 <summary style="text-align:center;">My weekly coding activities 💻</summary>
@@ -51,20 +57,9 @@ Overall:
 </details>
 
 
-#
-
-
-<!-- WAKATIME COLOUR THEME: #5e4b91 -->
-  <h4 align="center">My top programming languages 📈</h4>
-<p align="center">
-<a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
-<img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="100%" />
-</a>
-
-
 <div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
-  
-  
+
+
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
 </p> -->
@@ -81,10 +76,7 @@ Overall:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" /> -->
 
-
-
 #
-
 
 <h4 align="center">What I am experienced in 📦</h4>
 
