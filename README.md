@@ -38,6 +38,7 @@ style="width:50%;"
 - 📫  How to reach me: [@enkr1](enkr99@gmail.com); 
 -->
 
+
 <details>
 <summary style="text-align:center;">💻 My weekly coding activities</summary>
   
@@ -59,7 +60,6 @@ Overall:
 
 <div style="height:1px;width:100%;background-color:#5e4b91;margin:1rem;"></div>
 
-
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enkr1&theme=tokyonight" alt="enkr1 | WakaTime Stats" />
 </p> -->
@@ -77,7 +77,7 @@ Overall:
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" /> -->
 
 
-<details open>
+<details>
 <summary style="text-align:center;">📦 What I am experienced in</summary>
 <br>
 <p align="center">
