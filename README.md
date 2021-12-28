@@ -76,10 +76,9 @@ Overall:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkr1&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=tokyonight" alt="enkr1 | Top Langs" /> -->
 
-#
 
-<h4 align="center">What I am experienced in 📦</h4>
-
+<details>
+<summary style="text-align:center;">📦 What I am experienced in</summary>
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
   <img src="https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=08C7FA">
@@ -125,6 +124,9 @@ Overall:
   <img src="https://img.shields.io/badge/-KanBan-5A0FC8?style=flat">
 <!--   <img src="https://img.shields.io/badge/-Agile-5A0FC8?style=flat">   -->
 </p>
+  
+</details>
+
 
 #
 
