@@ -14,7 +14,7 @@
 <!-- WAKATIME COLOUR THEME: #5e4b91 -->
 
 <details open>
-<summary style="text-align:center;">📈 My top programming languages</summary>
+<summary style="text-align:center;">📈 My top programming languages< (from 25th December 2020) /summary>
 <p align="center">
 <a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" target="_blank">
 <img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg" width="88%" />
