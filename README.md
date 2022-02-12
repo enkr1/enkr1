@@ -21,15 +21,7 @@
 </a>
 </details>
 
-<details>
-<summary style="text-align:center;">📊 GitHub stats</summary>
-<br>
-<img 
-alt="enkr1's Github Stats" 
-src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" 
-style="width:50%;"
-/>
-</details>
+
 <!--
 **Talking about Personal Stuffs:**
 - 💼  I’m currently working at [Pixium Digital](https://github.com/pixiumdigital);
@@ -39,7 +31,7 @@ style="width:50%;"
 -->
 
 
-<details>
+<details open>
 <summary style="text-align:center;">💻 Weekly coding activities</summary>
   
 <!--
@@ -78,6 +70,18 @@ Overall:
 
 
 <details>
+<summary style="text-align:center;">📊 GitHub stats</summary>
+<br>
+<img 
+alt="enkr1's Github Stats" 
+src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" 
+style="width:50%;"
+/>
+<br>
+</details>
+
+
+<details>
 <summary style="text-align:center;">📦 What I am experienced in</summary>
 <br>
 <p align="center">
@@ -94,7 +98,7 @@ Overall:
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=F89820">
   <img src="https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoColor=e6000d">
   <img src="https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&logoColor=blue">
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=00758F">
+  <img src="https://img.shields.io/badge/-Terrfarorm-black?style=flat&logo=terraform&logoColor=603ADC">
 </p>
 
 <p align="center">
@@ -136,9 +140,6 @@ Overall:
 </details>
 
 
-#
-
-
 <br>
 
 <div align="center">
@@ -150,8 +151,6 @@ Overall:
   <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
 </div>
 
-
-#
 
 
 <h4>References</h4>
