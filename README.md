@@ -1,13 +1,21 @@
 <samp>Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></samp>
 
-<p style="float:left;">
-<!--   <samp> -->
-  My name is Pang Jing Hui, a web designer, developer, programmer who graduated from <a href="https://www.sp.edu.sg/" target="_blank">Singapore Polytechnic</a> and I am currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
-  This is my <a href="https://enkr1.github.io" target="_blank">personal website</a> developed and designed by myself.
-  <br />
-  I am a beatboxer too! Follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>.
-<!--   </samp> -->
-</p>
+<div>
+  <p style="width:60%; float:left;">
+  <!--   <samp> -->
+    My name is Pang Jing Hui, a web designer, developer, programmer who graduated from <a href="https://www.sp.edu.sg/" target="_blank">Singapore Polytechnic</a> and I am currently working at <a href="https://github.com/pixiumdigital" target="_blank">Pixium Digital</a>.
+    This is my <a href="https://enkr1.github.io" target="_blank">personal website</a> developed and designed by myself.
+    <br>
+    I am a beatboxer too! Follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>.
+  <!--   </samp> -->
+  </p>
+  
+<!--   <img 
+  alt="enkr1's Github Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" 
+  style="width:40%; float:right;"
+  /> -->
+</div>
 
 <br>
 
