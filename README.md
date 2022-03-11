@@ -151,12 +151,14 @@ style="width:50%;"
 <br>
 
 <div align="center">
-   <a href="https://wakatime.com/@849bb989-6c1a-4bb4-a5f1-ba937583da5f"><img src="https://wakatime.com/badge/user/849bb989-6c1a-4bb4-a5f1-ba937583da5f.svg" alt="Total time coded since Dec 25 2020" /></a>
-<!--   <img src="https://img.shields.io/github/followers/enkr1?label=Follow&style=social" alt="Followers" /> -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=enkr1.enkr1" alt="Visitors" />
   <a href="https://enkr1.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Personal%20Website-blue?style=flat&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/jinghuipang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pang%20Jing%20Hui-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:enkr99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enkr99@gmail.com-blue?style=flat&logo=gmail"></a>
+</div>
+<div align="center">
+   <a href="https://wakatime.com/@849bb989-6c1a-4bb4-a5f1-ba937583da5f"><img src="https://wakatime.com/badge/user/849bb989-6c1a-4bb4-a5f1-ba937583da5f.svg" alt="Total time coded since Dec 25 2020" /></a>
+<!--   <img src="https://img.shields.io/github/followers/enkr1?label=Follow&style=social" alt="Followers" /> -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=enkr1.enkr1" alt="Visitors" />
 </div>
 
 
