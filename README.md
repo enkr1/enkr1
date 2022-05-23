@@ -94,6 +94,7 @@ style="width:50%;"
 <br>
 <p align="center">
   <img src="/assets/images/yii_logo_light.svg" width="15%">
+  <img src="/assets/images/elixir-lang-ar21.svg" width="12%" style="margin-top: 2rem">
 </p>
   
 <p align="center">
