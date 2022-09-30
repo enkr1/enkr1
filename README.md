@@ -1,5 +1,23 @@
 <samp>Hello, World</samp>
 
+```elixir
+%User{
+  first_name: "Jing Hui",
+  last_name: "PANG",
+  roles: [
+    %Role{title: "Software Engineer", inserted_at: ~N[2020-09-14 09:30:00]},
+    %Role{title: "Beatboxer", inserted_at: ~N[2016-12-01 00:00:00]}
+  ],
+  interests: [
+    %Interest{title: "Coding!"},
+    %Interest{title: "Working out"},
+    %Interest{title: "beatboxing"},
+    %Interest{title: "sleeping :skull:"}
+  ],
+  inserted_at: ~N[1999-12-06 00:00:00]
+}
+```
+
 <div>
   <p style="float:left;">
   <!--   <samp> -->
