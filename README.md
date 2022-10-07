@@ -5,6 +5,7 @@
   first_name: "Jing Hui",
   last_name: "PANG",
   email: %Email{work: "enkr99@gmail.com", personal: "jinghuipang99@gmail.com"},
+  bio: "I am in love with Elixir right now",
   roles: [
     %Role{title: "Software Engineer", inserted_at: ~N[2020-09-14 09:30:00]},
     %Role{title: "Beatboxer", inserted_at: ~N[2016-12-01 00:00:00]}
