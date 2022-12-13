@@ -18,7 +18,7 @@
   ],
   inserted_at: ~N[1999-12-06 00:00:00]
 }
-|> set_daily_routine(["code", "workout", "game", "sleep"])
+|> set_daily_routine(["code", "workout", "game", "beatbox", "sleep"])
 ```
 
 ---
