@@ -44,7 +44,7 @@
   <summary><b>📈 My top programming languages (from 25th December 2020)</b></summary>
   <br/>
   <div align="center">
-    <a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db">
+    <a href="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg">
       <img src="https://wakatime.com/share/@enkr1/76ac6be3-7cf1-4f38-a07a-5828ae3e91db.svg"/>
     </a>
   </div>
@@ -56,7 +56,7 @@
   <summary><b>💻 My weekly coding activities</b></summary>
   <br/>
   <div align="center">
-    <a href="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343">
+    <a href="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg">
       <img src="https://wakatime.com/share/@enkr1/11de77a4-4749-4544-b914-668a67efd343.svg"/>
     </a>
   </div>
