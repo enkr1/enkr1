@@ -145,10 +145,16 @@
 ---
 
 <h4>References</h4>
-<p><i>
-<ul>
-  <li>Statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
-  <li>Icons and badges are provided by <a href="https://shields.io/">Shields.io</a></li>
-</ul>
-</i></p>
+<p>
+  <i>
+  <ul>
+    <li>Statistics are generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
+    <li>Icons and badges are provided by <a href="https://shields.io/">Shields.io</a></li>
+  </ul>
+  </i>
+</p>
+
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> 
+</p>
 
