@@ -1,5 +1,26 @@
 <samp>Hello, World</samp>
 
+<div align="center">
+<p>Hi there, I'm Jing Hui Pang 👋</p>
+
+  <br/>
+  <br/>
+  <p>
+    I'm an Elixir enthusiast and software engineer who loves working with this amazing language. When I'm not coding, I'm either working out or beatboxing.
+  </p>
+  <br/>
+  <br/>
+  <p>
+    Check out my <a href="https://enkr1.github.io" target="_blank">personal website</a> to learn more about me and my work. You can also follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a> for some beatboxing contents!
+  </p>
+</div>
+
+<br/>
+
+<details>
+  <summary><b>🔮 Elixir Profile</b></summary>
+  <br/>
+  
 ```elixir
 %User{
   first_name: "Jing Hui",
@@ -20,23 +41,8 @@
 }
 |> set_daily_routine(["code", "workout", "game", "beatbox", "sleep"])
 ```
-
----
-
-<div align="center">
-<p>Hi there, I'm Jing Hui Pang 👋</p>
-
-  <br/>
-  <br/>
-  <p>
-    I'm an Elixir enthusiast and software engineer who loves working with this amazing language. When I'm not coding, I'm either working out or beatboxing.
-  </p>
-  <br/>
-  <br/>
-  <p>
-    Check out my <a href="https://enkr1.github.io" target="_blank">personal website</a> to learn more about me and my work. You can also follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a> for some beatboxing contents!
-  </p>
-</div>
+ 
+</details> 
 
 <br/>
 
