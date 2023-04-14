@@ -1,7 +1,7 @@
 <samp>Hello, World</samp>
 
 <div align="center">
-<p>Hi there, I'm Jing Hui Pang 👋</p>
+<p>I'm Jing Hui PANG 👋</p>
 
   <br/>
   <br/>
