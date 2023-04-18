@@ -34,6 +34,7 @@
   interests: [
     %Interest{title: "Coding!"},
     %Interest{title: "Working out"},
+    %Interest{title: "Music production"},
     %Interest{title: "Beatboxing"},
     %Interest{title: "Sleeping ... :skull:"}
   ],
