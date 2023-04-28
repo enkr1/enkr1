@@ -6,7 +6,7 @@
   <br/>
   <br/>
   <p>
-    I'm an Elixir enthusiast and software engineer who loves working with this amazing language. When I'm not coding, I'm either working out or beatboxing.
+    I'm an Elixir enthusiast and software engineer who loves working with this amazing language. When I'm not coding, I'm either working out, beatboxing or producing music!
   </p>
   <br/>
   <br/>
