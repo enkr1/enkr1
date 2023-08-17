@@ -6,12 +6,9 @@
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enkr1&theme=dark)](https://leetcode.com/enkr1/)
   
   <br/>
-  <br/>
   <p>
     I'm an Elixir enthusiast and software engineer who loves working with this amazing language. When I'm not coding, I'm either working out, beatboxing or producing music!
   </p>
-  <br/>
-  <br/>
   <p>
     Check out my <a href="https://enkr1.github.io" target="_blank">personal website</a> to learn more about me and my work. You can also follow me on <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a> for some beatboxing contents!
   </p>
@@ -151,6 +148,8 @@
   <samp>Thanks for stopping by!</samp>
 </div>
 
+<!--
+
 ---
 
 <h4>References</h4>
@@ -162,6 +161,8 @@
   </ul>
   </i>
 </p>
+
+-->
 
 <!-- <p align="center"> 
   <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg"/> 
