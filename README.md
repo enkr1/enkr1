@@ -3,7 +3,9 @@
 <div align="center">
 <p>I'm Jing Hui PANG 👋</p>
 
+<!--
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enkr1&theme=dark)](https://leetcode.com/enkr1/)
+-->
   
   <br/>
   <p>
