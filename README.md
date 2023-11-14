@@ -2,20 +2,19 @@
 
 <div align="center">
 <p>I'm Jing Hui PANG 👋</p>
-
+  
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enkr1&theme=dark)](https://leetcode.com/enkr1/)
 
-  
-  <br/>
-    <p>
-        As a software engineer, I see programming as more than just a skill; it's a canvas for creativity, a tool to transform the abstract into reality. My journey in tech spans various languages and frameworks, with a focus on crafting innovative solutions that have a tangible impact.
-    </p>
-    <p>
-        When not immersed in code, you'll find me exploring the rhythmic world of beatboxing, or orchestrating digital symphonies in music production. I believe in a balanced life where passions outside of work fuel my professional creativity.
-    </p>
-    <p>
-        Dive into my world by visiting my <a href="https://enkr1.github.io" target="_blank">personal website</a>. It's a window into my professional achievements, personal projects, and the occasional beatboxing adventure. For a daily dose of my life, from the coding screens to the beatboxing scenes, check out my <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>. It's where I share the casual, the quirky, and everything in-between – snapshots of events, behind-the-scenes peeks, and just me being me!
-    </p>
+<p>
+  As a software engineer, I see programming as more than just a skill; it's a canvas for creativity, a tool to transform the abstract into reality. My journey in tech spans various languages and frameworks, with a focus on crafting innovative solutions that have a tangible impact.
+</p>
+<p>
+  When not immersed in code, you'll find me exploring the rhythmic world of beatboxing, or orchestrating digital symphonies in music production. I believe in a balanced life where passions outside of work fuel my professional creativity.
+</p>
+<p>
+  Dive into my world by visiting my <a href="https://enkr1.github.io" target="_blank">personal website</a>. It's a window into my professional achievements, personal projects, and the occasional beatboxing adventure. For a daily dose of my life, from the coding screens to the beatboxing scenes, check out my <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>. It's where I share the casual, the quirky, and everything in-between – snapshots of events, behind-the-scenes peeks, and just me being me!
+</p>
+
 </div>
 
 <br/>
