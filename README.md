@@ -18,6 +18,22 @@
   Dive into my world by visiting my <a href="https://enkr1.github.io" target="_blank">personal website</a>. It's a window into my professional achievements, personal projects, and the occasional beatboxing adventure. For a daily dose of my life, from the coding screens to the beatboxing scenes, check out my <a href="https://www.instagram.com/enkr1/" target="_blank">Instagram</a>. It's where I share the casual, the quirky, and everything in-between – snapshots of events, behind-the-scenes peeks, and just me being me!
 </p>
 
+<!--
+As a software engineer now at ByteDance, I view programming not just as a skill but as a canvas for creativity, transforming the abstract into tangible innovations. My tech journey spans various languages and frameworks, focusing on creating solutions that make a real-world impact.
+
+Outside the digital realm, my passions lie in the rhythmic beats of beatboxing and the art of music production. I believe in a balanced life, where my hobbies outside work enhance my professional creativity.
+
+Explore my world further on my personal website, showcasing my professional milestones, personal projects, and beatboxing escapades. For a glimpse into my daily life, from coding challenges to beatboxing rhythms, follow me on Instagram. It's a mix of the professional, the playful, and the uniquely me – from event highlights to behind-the-scenes glimpses and more.
+
+作为字节跳动的软件工程师，我认为编程不仅仅是一项技能；它是创造力的画布，将抽象转化为现实的创新。我的技术旅程涵盖了各种语言和框架，专注于创建有实际影响的解决方案。
+
+在数字世界之外，我对节奏口技和音乐制作的热情同样浓厚。我相信平衡的生活方式，业余爱好能够增强我的专业创造力。
+
+通过访问我的个人网站深入了解我的世界，展示了我的职业成就、个人项目以及Beatbox冒险。要想一窥我的日常生活，从编码挑战到节奏口技，可以关注我的Instagram。那里有我专业的、有趣的、独一无二的我——从活动亮点到幕后花絮等等。
+
+
+-->
+
 </div>
 
 <br/>
