@@ -6,7 +6,7 @@
 <!--
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enkr1&theme=dark)](https://leetcode.com/enkr1/)
 -->
-<figure><embed src="https://wakatime.com/share/@enkr1/dea0a51c-6a03-4062-a236-8bfac2a6928c.svg"></embed></figure>
+[![My Overall stats](https://wakatime.com/share/@enkr1/dea0a51c-6a03-4062-a236-8bfac2a6928c.svg)](https://wakatime.com/enkr1)
 
 <p>
   As a software engineer, I see programming as more than just a skill; it's a canvas for creativity, a tool to transform the abstract into reality. My journey in tech spans various languages and frameworks, with a focus on crafting innovative solutions that have a tangible impact.
