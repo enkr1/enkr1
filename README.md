@@ -3,6 +3,8 @@
 <div align="center">
 <p>I'm Jing Hui PANG 👋</p>
 
+> "Programming is a tool to turn ideas into reality. Use it as an opportunity to unleash creativity and build something remarkable."
+
 <!--
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enkr1&theme=dark)](https://leetcode.com/enkr1/)
 -->
