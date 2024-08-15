@@ -10,6 +10,8 @@
 -->
 [![My Overall stats](https://wakatime.com/share/@enkr1/dea0a51c-6a03-4062-a236-8bfac2a6928c.svg)](https://wakatime.com/enkr1)
 
+<a href="https://app.daily.dev/enkr1"><img src="https://api.daily.dev/devcards/v2/qEmqwou2LLZkCiFiKgmtm.png?r=ltp&type=default" width="356" alt="ENKR | Jing Hui PANG | 彭竞辉's Dev Card"/></a>
+
 <p>
   As a software engineer, I see programming as more than just a skill; it's a canvas for creativity, a tool to transform the abstract into reality. My journey in tech spans various languages and frameworks, with a focus on crafting innovative solutions that have a tangible impact.
 </p>
