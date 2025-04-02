@@ -4,7 +4,9 @@
 <div align="center">
 <p>I'm Jing Hui PANG 👋</p>
 
+<!--
 <a href="https://app.daily.dev/enkr1"><img src="https://api.daily.dev/devcards/v2/qEmqwou2LLZkCiFiKgmtm.png?type=default&r=hww" width="356" alt="ENKR | Jing Hui PANG | 彭竞辉's Dev Card"/></a>
+-->
 
 > "Programming is a tool to turn ideas into reality. Use it as an opportunity to unleash creativity and build something remarkable."
 
