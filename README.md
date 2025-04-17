@@ -9,7 +9,7 @@
 Currently at ByteDance, I focus on building internal platforms and enterprise tools using JavaScript, Go, and low-code solutions. I love simplifying complex systems and turning user needs into working products.
 
 - 💡 Passionate about product thinking, developer experience, and clean design
-- 🧱 Tech: Node.js · TypeScript · Go · Terraform · PostgreSQL · aPaaS
+- 🧱 Tech: Node.js · Elixir · TypeScript · aPaaS · Go · Terraform · PostgreSQL
 - 📍 Singapore · 🇲🇾 Malaysia
 
 🔗 Explore all my work and links at [enkr1.github.io/platforms](https://enkr1.github.io/platforms)
