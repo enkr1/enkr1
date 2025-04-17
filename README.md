@@ -2,6 +2,8 @@
 
 <samp>Full-stack Software Engineer · Building things from 0 → 1</samp>
 
+![](https://komarev.com/ghpvc/?username=enkr1&color=red)
+
 ---
 
 Currently at ByteDance, I focus on building internal platforms and enterprise tools using JavaScript, Go, and low-code solutions. I love simplifying complex systems and turning user needs into working products.
@@ -51,4 +53,4 @@ Currently at ByteDance, I focus on building internal platforms and enterprise to
   <samp>Thanks for visiting ❤️</samp>
 </div>
 
-![](https://komarev.com/ghpvc/?username=enkr1&color=blueviolet)
+
