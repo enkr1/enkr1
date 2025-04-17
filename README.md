@@ -48,7 +48,7 @@ Currently at ByteDance, I focus on building internal platforms and enterprise to
 ---
 
 <div align="center">
-  <samp>Thanks for visiting · enkr99@gmail.com</samp>
+  <samp>Thanks for visiting ❤️</samp>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=enkr1&color=blueviolet)
