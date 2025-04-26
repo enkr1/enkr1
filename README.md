@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jing Hui PANG
 
-<samp>Full-stack Software Engineer · Building things from 0 → 1</samp>
+<i>Full-stack Software Engineer - Building things from 0 to 1.</i>
 
 ![](https://komarev.com/ghpvc/?username=enkr1&color=red)
 
