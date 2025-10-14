@@ -4,7 +4,9 @@
 
 ---
 
+<!--
 Currently at ByteDance, I focus on building internal platforms and enterprise tools using JavaScript, Go, and low-code solutions. I love simplifying complex systems and turning user needs into working products.
+-->
 
 - 💡 Passionate about product thinking, developer experience, and clean design
 - 📦 Node.js · Bash · Elixir · TypeScript · aPaaS · Terraform · PostgreSQL
