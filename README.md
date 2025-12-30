@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jing Hui PANG
+# 👋 Hi, I'm Jing Hui PANG | 彭竞辉
 
 <i>Full-stack Software Engineer - Building things from 0 to 1.</i>
 
