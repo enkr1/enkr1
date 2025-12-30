@@ -53,7 +53,7 @@ Currently at ByteDance, I focus on building internal platforms and enterprise to
   
   ![](https://komarev.com/ghpvc/?username=enkr1&color=red)  
   
-  <samp>Thanks for visiting ❤️</samp>
+  <samp>❤️</samp>
 </div>
 
 
