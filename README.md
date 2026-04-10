@@ -1,18 +1,15 @@
-# 👋 Hi, I'm Jing Hui PANG | 彭竞辉
+<p align="center">
+  <img src="./assets/hero.svg" alt="Jing Hui PANG — Full-Stack Software Engineer" width="100%"/>
+</p>
 
-<i>Full-stack Software Engineer - Building things from 0 to 1.</i>
+Engineer, designer, and writer based in Singapore. I build internal tools, dev experience platforms, and side projects that scratch my own itches.
 
----
-
-<!--
-Currently at ByteDance, I focus on building internal platforms and enterprise tools using JavaScript, Go, and low-code solutions. I love simplifying complex systems and turning user needs into working products.
--->
-
-- 💡 Passionate about product thinking, developer experience, and clean design
-- 📦 Node.js · Bash · Elixir · TypeScript · aPaaS · Terraform · PostgreSQL
-- 📍 Singapore · Malaysia
-
-🔗 Explore all my work and links at [enkr1.github.io/platforms](https://enkr1.github.io/platforms)
+- 📦 **Stack** — Node.js · TypeScript · Elixir · Go · Terraform · PostgreSQL
+- 📝 **Writing** — [blog.enkr1.com](https://blog.enkr1.com) · weekly journal · technical essays
+- 🌱 **Now** — NUS BIT
+- 📍 **Based** — Singapore · Malaysia · Remote
+- 🎤 **Off-stage** — beatbox · 555 Artist
+- 📬 **Reach me** — [enkr1.github.io/platforms](https://enkr1.github.io/platforms) *(all-in-one hub)*
 
 ---
 
@@ -38,24 +35,12 @@ Currently at ByteDance, I focus on building internal platforms and enterprise to
 
 </details>
 
-<details>
-  <summary><b>💻 GitHub Stats</b></summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enkr1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" width="60%"/>
-</p>
-
-</details>
-
 ---
 
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=enkr1&color=red)  
-  
-  <samp>❤️</samp>
+
+![](https://komarev.com/ghpvc/?username=enkr1&color=red)
+
+<samp>❤️</samp>
+
 </div>
-
-
-
-
