@@ -3,7 +3,7 @@ import { strict as assert } from 'node:assert';
 import { existsSync, readFileSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, resolve } from 'node:path';
-import { generateHeroSvg } from './generate-hero-svg.mjs';
+import { generateHeroSvg, textToSvgPath } from './generate-hero-svg.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const outputPath = resolve(__dirname, '../assets/hero.svg');
@@ -47,4 +47,20 @@ test('SVG has 3 waveform paths with SMIL animation', async () => {
   assert.match(svg, /dur="10s"/);
   assert.match(svg, /dur="7.5s"/);
   assert.match(svg, /dur="5s"/);
+});
+
+test('textToSvgPath converts text to an SVG <path> element with valid "d" data', async () => {
+  const fontPath = resolve(__dirname, '../assets/fonts/CormorantGaramond-Medium.ttf');
+  const pathElement = await textToSvgPath({
+    fontPath,
+    text: 'Test',
+    x: 0,
+    y: 0,
+    fontSize: 48,
+    fill: '#1E4B8C',
+  });
+  assert.match(pathElement, /^<path /);
+  assert.match(pathElement, /d="M/);
+  assert.match(pathElement, /fill="#1E4B8C"/);
+  assert.match(pathElement, /\/>$/);
 });

@@ -1,9 +1,32 @@
 import { writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, resolve } from 'node:path';
+import opentype from 'opentype.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = resolve(__dirname, '../assets/hero.svg');
+
+/**
+ * Load a font and convert text to an SVG <path> element.
+ * @param {object} opts
+ * @param {string} opts.fontPath - Absolute path to TTF/OTF
+ * @param {string} opts.text - Text to convert
+ * @param {number} opts.x - X position (viewBox units)
+ * @param {number} opts.y - Y baseline position (viewBox units)
+ * @param {number} opts.fontSize - Font size (viewBox units)
+ * @param {string} opts.fill - Fill color (hex)
+ * @param {number} [opts.letterSpacing] - Extra spacing in viewBox units
+ * @returns {Promise<string>} SVG <path .../> element
+ */
+export async function textToSvgPath({ fontPath, text, x, y, fontSize, fill, letterSpacing = 0 }) {
+  const font = await opentype.load(fontPath);
+  const path = font.getPath(text, x, y, fontSize, { letterSpacing: letterSpacing / fontSize });
+  const d = path.toPathData(2);
+  if (!d || !d.startsWith('M')) {
+    throw new Error(`textToSvgPath produced invalid path data for "${text}" — ${d?.slice(0, 30)}`);
+  }
+  return `<path d="${d}" fill="${fill}"/>`;
+}
 
 /**
  * Generate the enkr1/enkr1 profile hero SVG.
