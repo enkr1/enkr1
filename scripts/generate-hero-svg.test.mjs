@@ -64,3 +64,20 @@ test('textToSvgPath converts text to an SVG <path> element with valid "d" data',
   assert.match(pathElement, /fill="#1E4B8C"/);
   assert.match(pathElement, /\/>$/);
 });
+
+test('SVG contains no <text> elements — all display text is converted to paths', async () => {
+  const svg = await generateHeroSvg();
+  assert.doesNotMatch(svg, /<text[\s>]/, 'SVG should not contain any <text> elements');
+});
+
+test('SVG contains exactly 6 text-to-path elements (2 masthead + eyebrow + name + Chinese + tagline)', async () => {
+  const svg = await generateHeroSvg();
+  const displayTextPaths = svg.match(/<path d="[^"]+" fill="[^"]+"\/>/g) || [];
+  assert.equal(displayTextPaths.length, 6, `expected 6 display text paths, got ${displayTextPaths.length}`);
+});
+
+test('SVG file size is under 50KB (safety net)', async () => {
+  await generateHeroSvg();
+  const { size } = statSync(outputPath);
+  assert.ok(size < 50 * 1024, `hero.svg is ${size} bytes, expected < 50KB`);
+});
