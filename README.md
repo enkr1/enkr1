@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Jing Hui PANG — Full-Stack Software Engineer" width="100%"/>
+  <img src="./assets/hero.svg" alt="Jing Hui PANG - Full-Stack Software Engineer" width="100%"/>
 </p>
 
 Engineer, designer, and writer based in Singapore. I build internal tools, dev experience platforms, and side projects that scratch my own itches.
 
-- 📦 **Stack** — Node.js · TypeScript · Elixir · Go · Terraform · PostgreSQL
-- 📝 **Writing** — [blog.enkr1.com](https://blog.enkr1.com) · weekly journal · technical essays
-- 🌱 **Now** — NUS BIT
-- 📍 **Based** — Singapore · Malaysia · Remote
-- 🎤 **Off-stage** — beatbox · 555 Artist
-- 📬 **Reach me** — [enkr1.github.io/platforms](https://enkr1.github.io/platforms) *(all-in-one hub)*
+- 📦 **Stack** - Node.js · TypeScript · Elixir · Go · Terraform · PostgreSQL
+- 📝 **Writing** - [blog.enkr1.com](https://blog.enkr1.com) · weekly journal · technical essays
+- 🌱 **Now** - NUS BIT
+- 📍 **Based** - Singapore · Malaysia · Remote
+- 🎤 **Off-stage** - beatbox · 555 Artist
+- 📬 **Reach me** - [enkr1.github.io/platforms](https://enkr1.github.io/platforms) *(all-in-one hub)*
 
 ---
 
