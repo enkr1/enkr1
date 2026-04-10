@@ -35,3 +35,16 @@ test('SVG has divider — two gold bars and one fire-colored dot', async () => {
   assert.match(svg, /<line[^>]+x1="650"[^>]+x2="740"[^>]+y1="378"[^>]+y2="378"[^>]+stroke="#8B7355"/);
   assert.match(svg, /<circle[^>]+cx="640"[^>]+cy="378"[^>]+r="3\.5"[^>]+fill="#D97706"/);
 });
+
+test('SVG has 3 waveform paths with SMIL animation', async () => {
+  const svg = await generateHeroSvg();
+  assert.match(svg, /<g transform="translate\(0,\s*440\)">/);
+  const animateCount = (svg.match(/<animate /g) || []).length;
+  assert.equal(animateCount, 3, 'should have exactly 3 <animate> elements');
+  assert.match(svg, /stroke="#8B7355"[^>]+stroke-width="3"/);
+  assert.match(svg, /stroke="#1E4B8C"[^>]+stroke-width="2"/);
+  assert.match(svg, /stroke="#E8C8A0"[^>]+stroke-width="1.5"/);
+  assert.match(svg, /dur="10s"/);
+  assert.match(svg, /dur="7.5s"/);
+  assert.match(svg, /dur="5s"/);
+});
