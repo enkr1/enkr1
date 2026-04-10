@@ -16,6 +16,11 @@ export async function generateHeroSvg() {
   parts.push('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 580">');
   parts.push('<rect fill="#FBF8F3" width="1280" height="580"/>');
   parts.push('<line x1="120" y1="80" x2="1160" y2="80" stroke="#8B7355" stroke-width="0.5" opacity="0.5"/>');
+  // Center divider
+  parts.push('<line x1="540" x2="630" y1="378" y2="378" stroke="#8B7355" stroke-width="1"/>');
+  parts.push('<line x1="650" x2="740" y1="378" y2="378" stroke="#8B7355" stroke-width="1"/>');
+  parts.push('<circle cx="640" cy="378" r="3.5" fill="#D97706"/>');
+
   parts.push('<line x1="120" y1="555" x2="1160" y2="555" stroke="#8B7355" stroke-width="0.5" opacity="0.5"/>');
   parts.push('</svg>');
   const svg = parts.join('\n');

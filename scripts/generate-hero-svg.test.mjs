@@ -28,3 +28,10 @@ test('SVG has two gold hairline rules (top y=80, bottom y=555)', async () => {
   assert.match(svg, /<line[^>]+y1="80"[^>]+y2="80"[^>]+stroke="#8B7355"/);
   assert.match(svg, /<line[^>]+y1="555"[^>]+y2="555"[^>]+stroke="#8B7355"/);
 });
+
+test('SVG has divider — two gold bars and one fire-colored dot', async () => {
+  const svg = await generateHeroSvg();
+  assert.match(svg, /<line[^>]+x1="540"[^>]+x2="630"[^>]+y1="378"[^>]+y2="378"[^>]+stroke="#8B7355"/);
+  assert.match(svg, /<line[^>]+x1="650"[^>]+x2="740"[^>]+y1="378"[^>]+y2="378"[^>]+stroke="#8B7355"/);
+  assert.match(svg, /<circle[^>]+cx="640"[^>]+cy="378"[^>]+r="3\.5"[^>]+fill="#D97706"/);
+});
