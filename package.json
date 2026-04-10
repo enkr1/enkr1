@@ -1,0 +1,17 @@
+{
+  "name": "enkr1",
+  "version": "1.0.0",
+  "description": "GitHub profile README — hero SVG generator",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate-hero-svg.mjs",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}
