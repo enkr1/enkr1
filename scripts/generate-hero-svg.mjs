@@ -22,7 +22,7 @@ const BODY_DARK = '#2C2416';
  * @returns {string} SVG path data
  */
 function compactPathData(commands) {
-  const r = (n) => Math.round(n);
+  const r = (n) => Math.round(n * 100) / 100;
   let d = '';
   let cx = 0, cy = 0;
 
