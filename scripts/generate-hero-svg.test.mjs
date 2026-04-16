@@ -72,7 +72,7 @@ test('SVG contains no <text> elements — all display text is converted to paths
 
 test('SVG contains exactly 6 text-to-path elements (2 masthead + eyebrow + name + Chinese + tagline)', async () => {
   const svg = await generateHeroSvg();
-  const displayTextPaths = svg.match(/<path d="[^"]+" fill="[^"]+"\/>/g) || [];
+  const displayTextPaths = svg.match(/<path d="[^"]+" fill="[^"]+"[^/]*\/>/g) || [];
   assert.equal(displayTextPaths.length, 6, `expected 6 display text paths, got ${displayTextPaths.length}`);
 });
 

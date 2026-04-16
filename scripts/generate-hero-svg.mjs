@@ -72,12 +72,15 @@ function compactPathData(commands) {
  * @param {number} [opts.letterSpacing] - Extra spacing in viewBox units
  * @returns {Promise<string>} SVG <path .../> element
  */
-export async function textToSvgPath({ fontPath, text, x, y, fontSize, fill, letterSpacing = 0 }) {
+export async function textToSvgPath({ fontPath, text, x, y, fontSize, fill, letterSpacing = 0, strokeWidth = 0 }) {
   const font = await opentype.load(fontPath);
   const path = font.getPath(text, x, y, fontSize, { letterSpacing: letterSpacing / fontSize });
   const d = compactPathData(path.commands);
   if (!d || !d.startsWith('M')) {
     throw new Error(`textToSvgPath produced invalid path data for "${text}" — ${d?.slice(0, 30)}`);
+  }
+  if (strokeWidth > 0) {
+    return `<path d="${d}" fill="${fill}" stroke="${fill}" stroke-width="${strokeWidth}" stroke-linejoin="round"/>`;
   }
   return `<path d="${d}" fill="${fill}"/>`;
 }
@@ -99,12 +102,14 @@ export async function generateHeroSvg() {
   parts.push('<line x1="120" y1="80" x2="1160" y2="80" stroke="#8B7355" stroke-width="0.5" opacity="0.5"/>');
 
   // Masthead top-left — uses Noto Serif SC because it contains CJK chars (丙午)
+  // Bumped to 16px + faux-bold stroke to compensate for opentype.js lacking
+  // font hinting, which hits CJK strokes hardest at small sizes.
   {
     const text = '— VOL. 04 · 2026 丙午 —';
     parts.push(await textToSvgPath({
       fontPath: NOTO_SERIF_SC,
       text,
-      x: 120, y: 60, fontSize: 14, fill: GOLD, letterSpacing: 3.5,
+      x: 120, y: 60, fontSize: 16, fill: GOLD, letterSpacing: 3.5, strokeWidth: 0.2,
     }));
   }
 
@@ -112,11 +117,11 @@ export async function generateHeroSvg() {
   {
     const text = 'SINGAPORE · MALAYSIA';
     const font = await opentype.load(CORMORANT_ITALIC);
-    const width = font.getAdvanceWidth(text, 14, { letterSpacing: 3.5 / 14 });
+    const width = font.getAdvanceWidth(text, 16, { letterSpacing: 3.5 / 16 });
     parts.push(await textToSvgPath({
       fontPath: CORMORANT_ITALIC,
       text,
-      x: 1160 - width, y: 60, fontSize: 14, fill: GOLD, letterSpacing: 3.5,
+      x: 1160 - width, y: 60, fontSize: 16, fill: GOLD, letterSpacing: 3.5, strokeWidth: 0.15,
     }));
   }
 
