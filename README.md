@@ -2,19 +2,19 @@
   <img src="./assets/hero.svg" alt="Jing Hui PANG - Full-Stack Software Engineer" width="100%"/>
 </p>
 
-Engineer, designer, and writer based in Singapore. I build internal tools, dev experience platforms, and side projects that scratch my own itches.
+applied ai engineer based in Singapore. i help building products that can scale and love building side projects that scratch my own itches.
 
-- 📦 **Stack** - Node.js · TypeScript · Elixir · Go · Terraform · PostgreSQL
-- 📝 **Writing** - [blog.enkr1.com](https://blog.enkr1.com) · weekly journal · technical essays
-- 🌱 **Now** - NUS BIT
+- 🌱 **Now** - nus bit
+- 📦 **Work** - [Resume](http://resume.enkr1.com/) 
+- 📝 **Writing** - [Blog](https://blog.enkr1.com) · weekly journal · technical essays
+- 📬 **Reach me** - [Platforms](https://enkr1.github.io/platforms) · all-in-one hub
+- 🎤 **Off-stage** - gym · beatbox artist
 - 📍 **Based** - Singapore · Malaysia · Remote
-- 🎤 **Off-stage** - beatbox · 555 Artist
-- 📬 **Reach me** - [enkr1.github.io/platforms](https://enkr1.github.io/platforms) *(all-in-one hub)*
-
+- 
 ---
 
 <details>
-  <summary><b>📈 Weekly Coding Activity (Wakatime)</b></summary>
+  <summary><b>📈 Weekly Coding Activity</b></summary>
 
 <p align="center">
   <a href="https://wakatime.com/@enkr1">
