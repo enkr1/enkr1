@@ -10,7 +10,7 @@ applied ai engineer based in Singapore. i help building products that can scale 
 - 📬 **Reach me** - [Platforms](https://enkr1.github.io/platforms) · all-in-one hub
 - 🎤 **Off-stage** - gym · beatbox artist
 - 📍 **Based** - Singapore · Malaysia · Remote
-- 
+
 ---
 
 <details>
