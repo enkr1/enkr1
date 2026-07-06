@@ -25,7 +25,7 @@ applied ai engineer based in Singapore. i help building products that can scale 
 </details>
 
 <details>
-  <summary><b>📊 Full Coding Stats (Wakatime)</b></summary>
+  <summary><b>📊 Full Coding Stats</b></summary>
 
 <p align="center">
   <a href="https://wakatime.com/@enkr1">
