@@ -22,10 +22,11 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %Y
     todayMarker stroke:#E5484D,stroke-width:3px,opacity:1
-    Pixium Digital · Full-Stack Engineer :2021-03-01, 2023-12-01
-    ByteDance · Software Engineer / PM   :2023-12-01, 2025-06-30
-    NUS BIT (part-time) · grad 2028      :active, 2025-07-01, 2028-07-01
-    Ketchup AI · Full-Stack Engineer     :active, 2025-10-01, 2026-07-14
+    Singapore Polytechnic · Diploma in IT :2018-04-01, 2021-05-01
+    Pixium Digital · Full-Stack Engineer  :2021-03-01, 2023-12-01
+    ByteDance · Software Engineer / PM    :2023-12-01, 2025-07-01
+    NUS BIT (part-time) · grad 2028       :active, 2025-07-01, 2028-07-01
+    Ketchup AI · Full-Stack Engineer      :active, 2025-10-01, 2026-07-14
 ```
 
 </details>
