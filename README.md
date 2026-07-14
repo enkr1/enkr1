@@ -16,8 +16,6 @@ applied ai engineer based in Singapore. i help building products that can scale 
 <details>
   <summary><b>🗺️ Timeline</b></summary>
 
-<sub>b. 1999 · wrote my first loop in Java, 2018 · the red line is <b>now</b></sub>
-
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'taskBkgColor':'#1E4B8C','taskBorderColor':'#19437B','activeTaskBkgColor':'#C9A882','activeTaskBorderColor':'#8B7355','taskTextColor':'#FBF8F3','taskTextLightColor':'#FBF8F3','taskTextDarkColor':'#19437B','taskTextOutsideColor':'#8B7355','gridColor':'rgba(139,115,85,0.25)','todayLineColor':'#E5484D','sectionBkgColor':'rgba(0,0,0,0)','altSectionBkgColor':'rgba(0,0,0,0)','fontFamily':'Cormorant Garamond, Georgia, serif'}}}%%
 gantt
