@@ -16,19 +16,21 @@ applied ai engineer based in Singapore. i help building products that can scale 
 <details>
   <summary><b>🗺️ Timeline</b></summary>
 
+<sub>b. 1999 · wrote my first loop in Java, 2018 · the red line is <b>now</b></sub>
+
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'cScale0':'#1E4B8C','cScaleLabel0':'#FBF8F3','cScale1':'#8B7355','cScaleLabel1':'#FBF8F3','cScale2':'#D97706','cScaleLabel2':'#FBF8F3','primaryTextColor':'#FBF8F3','lineColor':'#8B7355','textColor':'#8B7355'}}}%%
-timeline
-    title Career & Learning Journey
-    2021-2023 : Pixium Digital · Full-Stack Engineer
-    2023-2025 : ByteDance · Software Engineer / PM
-    2025-now  : NUS BIT (part-time)
-              : Ketchup AI · Full-Stack Engineer
+%%{init: {'theme':'base','themeVariables':{'taskBkgColor':'#1E4B8C','taskBorderColor':'#19437B','activeTaskBkgColor':'#C9A882','activeTaskBorderColor':'#8B7355','taskTextColor':'#FBF8F3','taskTextLightColor':'#FBF8F3','taskTextDarkColor':'#19437B','taskTextOutsideColor':'#8B7355','gridColor':'rgba(139,115,85,0.25)','todayLineColor':'#E5484D','sectionBkgColor':'rgba(0,0,0,0)','altSectionBkgColor':'rgba(0,0,0,0)','fontFamily':'Cormorant Garamond, Georgia, serif'}}}%%
+gantt
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
+    todayMarker stroke:#E5484D,stroke-width:3px,opacity:1
+    Pixium Digital · Full-Stack Engineer :2021-03-01, 2023-12-01
+    ByteDance · Software Engineer / PM   :2023-12-01, 2025-06-30
+    NUS BIT (part-time) · grad 2028      :active, 2025-07-01, 2028-07-01
+    Ketchup AI · Full-Stack Engineer     :active, 2025-10-01, 2026-07-14
 ```
 
 </details>
-
----
 
 <details>
   <summary><b>📈 Weekly Coding Activity</b></summary>
