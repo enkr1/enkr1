@@ -2,14 +2,14 @@
   <img src="./assets/hero.svg" alt="Jing Hui PANG - Full-Stack Software Engineer" width="100%"/>
 </p>
 
-applied ai engineer based in Singapore. i help building products that can scale and love building side projects that scratch my own itches.
+applied ai engineer based in singapore. i help building products that can scale and love building side projects that scratch my own itches.
 
 - 🌱 **Now** - nus bit
-- 📦 **Work** - [Resume](http://resume.enkr1.com/) 
-- 📝 **Writing** - [Blog](https://blog.enkr1.com) · weekly journal · technical essays
-- 📬 **Reach me** - [Platforms](https://enkr1.github.io/platforms) · all-in-one hub
-- 🎤 **Off-stage** - gym · beatbox artist
-- 📍 **Based** - Singapore · Malaysia · Remote
+- 📦 **Work** - [resume](http://resume.enkr1.com/) 
+- 📝 **Writing** - [blog · weekly journal · technical essays](https://blog.enkr1.com)
+- 📬 **Reach me** - [platforms](https://enkr1.github.io/platforms) · all-in-one hub
+- ❤️ **Off-coding** - beatbox · gym
+- 📍 **Based** - singapore · malaysia · remote
 
 ---
 
