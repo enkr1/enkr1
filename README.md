@@ -8,7 +8,7 @@ applied ai engineer based in singapore. i help building products that can scale 
 - 📦 **Work** - [resume](http://resume.enkr1.com/) 
 - 📝 **Writing** - [blog · weekly journal · technical essays](https://blog.enkr1.com)
 - 📬 **Reach me** - [platforms · my all-in-one hub](https://enkr1.github.io/platforms)
-- ❤️ **Off-coding** - beatbox · gym
+- ❤️ **Off-coding** - beatbox · gym · sleep
 - 📍 **Based** - singapore · malaysia · remote
 
 ---
